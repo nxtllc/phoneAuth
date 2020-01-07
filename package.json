@@ -1,0 +1,22 @@
+{
+  "name": "phoneauth",
+  "version": "1.0.0",
+  "description": "Sashido phoneAuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxtllc/phoneAuth.git"
+  },
+  "keywords": [
+    "Sashido"
+  ],
+  "author": "Batzaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxtllc/phoneAuth/issues"
+  },
+  "homepage": "https://github.com/nxtllc/phoneAuth#readme"
+}
